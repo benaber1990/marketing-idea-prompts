@@ -46,7 +46,7 @@ function App() {
           {cardTitle}
         </p>
 
-        {/* <img
+        <img
           src={cardImage}
           style={{
             height: "125px",
@@ -59,7 +59,7 @@ function App() {
             marginBottom: "-5px",
             objectFit: "-moz-initial",
           }}
-        /> */}
+        />
 
         <p>💡 {cardInfo}</p>
 
