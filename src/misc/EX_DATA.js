@@ -11,6 +11,7 @@ const EX_DATA = [
     description:
       "Asking a question opens up a story loop, making readers want to know more",
   },
+
   {
     id: "001",
     category: "Email",
